@@ -1,0 +1,111 @@
+*{
+    margin: 0;
+    padding: 0;
+    outline: 0;
+    box-sizing: border-box;
+}
+
+.gradient-experiment-0{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(45deg, #32ff7e 0% 35%,transparent 35% 65%, #32ff7e 65%),linear-gradient(-45deg, #4160c9 0% 35%,transparent 35% 65%, #0f2e1a 65%);
+    /* background-color: black; */
+}
+
+.gradient-experiment-01{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(75deg, #32ff7e 0% 35%,transparent 35% 65%, #32ff7e 65%),linear-gradient(-195deg, #4160c9 0% 35%,transparent 35% 65%, #4160c9 65%);
+    /* background-color: red; */
+}
+
+.gradient-experiment-1{
+    margin-bottom: 1rem;
+    height: 20rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(90deg, #cd84f1 0% 15%,#ffcccc 20% 35%,#ff4d4d 40% 55%, #858585 60% 75%, #fffa65 80%);
+    background-color: black;
+}
+
+.gradient-experiment-2{
+    margin-bottom: 1rem;
+    height: 20rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(90deg, #32ff7e 0% 20%,#7efff5 20% 40%,#18dcff 40% 60%, #7d5fff 60% 80%, #4b4b4b 80%);
+    background-color: black;
+}
+
+.gradient-experiment-5{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: repeating-linear-gradient(#fffa65 10%,#858585 15% 25%,#ff4d4d 30% 45%);
+    background-color: black;
+}
+
+.gradient-experiment-6{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: repeating-linear-gradient(90deg, #32ff7e 0% 10%,#18dcff 10% 25%,#7efff5 25% 45%);
+    background-color: black;
+}
+
+.gradient-experiment-7{
+    margin-bottom: 1rem;
+    height: 20rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(40deg, #cd84f1 0% 15%,#ffcccc 20% 35%,#ff4d4d 40% 55%, #ffaf40 60% 75%, #fffa65 80%);
+    background-color: black;
+}
+
+.gradient-experiment-8{
+    margin-bottom: 1rem;
+    height: 20rem;
+    width: 100%;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: linear-gradient(155deg, #32ff7e 0% 20%,#7efff5 20% 40%,#18dcff 40% 60%, #7d5fff 60% 80%, #4b4b4b 80%);
+    background-color: black;
+}
+
+.gradient-experiment-conic{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: conic-gradient(#7d5fff, yellow, #18dcff, red, #2badc4);
+}
+
+.gradient-experiment-9{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: radial-gradient(closest-side, #32ff7e 0% 20%,#7efff5 20% 40%,#18dcff 40% 60%, #7d5fff 60% 80%, #4b4b4b 80%);
+}
+
+.gradient-experiment-10{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: radial-gradient(closest-corner, #32ff7e 0% 20%,#7efff5 20% 40%,#18dcff 40% 60%, #7d5fff 60% 80%, #4b4b4b 80%);
+}
+
+.gradient-experiment-11{
+    margin-bottom: 1rem;
+    height: 30rem;
+    width: 30rem;
+    border: 5px solid rgb(67, 101, 252);
+    background-image: repeating-radial-gradient(50% 50%, #7efff5, #4160c9);
+}
+
